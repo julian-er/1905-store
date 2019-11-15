@@ -57,3 +57,7 @@
  .v8 {
      height:80vh;
      }
+
+.waves-effect{
+overflow: visible !important;
+}
